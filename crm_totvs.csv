@@ -1,0 +1,11 @@
+ClientID,Nome,Empresa,Segmento,Produto_Atual,Tempo_Cliente_Anos,Ultima_Interacao,Tickets_Abertos,NPS,Faturamento_Anual_R$,Funcionarios,Estado
+1,Carlos Mendes,Metalúrgica Horizonte,Manufatura,Protheus ERP,5,2024-10-15,3,7,2800000,120,SP
+2,Fernanda Lima,Rede Varejo Líder,Varejo,TOTVS Varejo Omnichannel,2,2025-01-20,0,9,5400000,310,MG
+3,Roberto Alves,Agro Cerrado Ltda,Agronegócio,Totvs Agro,1,2025-03-01,7,4,9200000,85,GO
+4,Patrícia Souza,Clínica Saúde Total,Saúde,TOTVS Saúde,3,2024-12-10,1,8,1200000,60,RJ
+5,Diego Martins,Construtora Vértice,Construção Civil,Protheus ERP,6,2025-02-14,5,6,7500000,200,PR
+6,Aline Costa,Educação Futuro S/A,Educação,TOTVS Educacional,4,2025-01-05,0,10,3100000,450,SP
+7,Marcelo Ferreira,Transportadora Rota Sul,Logística,Protheus ERP,8,2024-11-22,9,3,4600000,170,RS
+8,Juliana Pires,Escritório Jurídico Partners,Serviços,Totvs Jurídico,2,2025-03-10,2,7,890000,40,SP
+9,Alexandre Nunes,Supermercados Central,Varejo,TOTVS Varejo Omnichannel,3,2025-02-28,4,6,12000000,520,BA
+10,Camila Rocha,Indústria Química Alfa,Manufatura,Protheus ERP,7,2025-01-17,6,5,6300000,280,SP
