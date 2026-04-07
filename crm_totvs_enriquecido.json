@@ -1,0 +1,305 @@
+{
+  "gerado_em": "2026-04-07T17:32:42.474892",
+  "clientes": [
+    {
+      "ClientID": 1,
+      "Nome": "Carlos Mendes",
+      "Empresa": "Metalúrgica Horizonte",
+      "Segmento": "Manufatura",
+      "Produto_Atual": "Protheus ERP",
+      "Tempo_Cliente_Anos": 5,
+      "Ultima_Interacao": "2024-10-15T00:00:00",
+      "Tickets_Abertos": 3,
+      "NPS": 7,
+      "Faturamento_Anual_R$": 2800000,
+      "Funcionarios": 120,
+      "Estado": "SP",
+      "Dias_Sem_Contato": 539,
+      "Risco_Churn": "🟡 Médio",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente engajado com alto volume de tickets pendentes, indicando necessidade de suporte técnico especializado.",
+        "acoes_imediatas": [
+          "Agendar call de saúde técnica em até 48h",
+          "Alocar consultor especialista no produto",
+          "Oferecer pacote de suporte premium"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics para dashboards operacionais",
+          "TOTVS RH integrado ao ERP atual"
+        ],
+        "mensagem_personalizada": "Olá! Identificamos pontos de melhoria e temos soluções para elevar sua operação.",
+        "prioridade_contato": "ALTA"
+      }
+    },
+    {
+      "ClientID": 2,
+      "Nome": "Fernanda Lima",
+      "Empresa": "Rede Varejo Líder",
+      "Segmento": "Varejo",
+      "Produto_Atual": "TOTVS Varejo Omnichannel",
+      "Tempo_Cliente_Anos": 2,
+      "Ultima_Interacao": "2025-01-20T00:00:00",
+      "Tickets_Abertos": 0,
+      "NPS": 9,
+      "Faturamento_Anual_R$": 5400000,
+      "Funcionarios": 310,
+      "Estado": "MG",
+      "Dias_Sem_Contato": 442,
+      "Risco_Churn": "🟡 Médio",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente promotor com excelente NPS, ideal para programa de cases de sucesso e expansão de módulos.",
+        "acoes_imediatas": [
+          "Convidar para programa Totvs Champion",
+          "Apresentar roadmap de novidades do produto",
+          "Propor expansão para filiais/unidades"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics Premium",
+          "Integração com marketplace digital"
+        ],
+        "mensagem_personalizada": "Você é um parceiro exemplar! Temos novidades exclusivas para clientes como você.",
+        "prioridade_contato": "MÉDIA"
+      }
+    },
+    {
+      "ClientID": 3,
+      "Nome": "Roberto Alves",
+      "Empresa": "Agro Cerrado Ltda",
+      "Segmento": "Agronegócio",
+      "Produto_Atual": "Totvs Agro",
+      "Tempo_Cliente_Anos": 1,
+      "Ultima_Interacao": "2025-03-01T00:00:00",
+      "Tickets_Abertos": 7,
+      "NPS": 4,
+      "Faturamento_Anual_R$": 9200000,
+      "Funcionarios": 85,
+      "Estado": "GO",
+      "Dias_Sem_Contato": 402,
+      "Risco_Churn": "🔴 Alto",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente engajado com alto volume de tickets pendentes, indicando necessidade de suporte técnico especializado.",
+        "acoes_imediatas": [
+          "Agendar call de saúde técnica em até 48h",
+          "Alocar consultor especialista no produto",
+          "Oferecer pacote de suporte premium"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics para dashboards operacionais",
+          "TOTVS RH integrado ao ERP atual"
+        ],
+        "mensagem_personalizada": "Olá! Identificamos pontos de melhoria e temos soluções para elevar sua operação.",
+        "prioridade_contato": "ALTA"
+      }
+    },
+    {
+      "ClientID": 4,
+      "Nome": "Patrícia Souza",
+      "Empresa": "Clínica Saúde Total",
+      "Segmento": "Saúde",
+      "Produto_Atual": "TOTVS Saúde",
+      "Tempo_Cliente_Anos": 3,
+      "Ultima_Interacao": "2024-12-10T00:00:00",
+      "Tickets_Abertos": 1,
+      "NPS": 8,
+      "Faturamento_Anual_R$": 1200000,
+      "Funcionarios": 60,
+      "Estado": "RJ",
+      "Dias_Sem_Contato": 483,
+      "Risco_Churn": "🟡 Médio",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente promotor com excelente NPS, ideal para programa de cases de sucesso e expansão de módulos.",
+        "acoes_imediatas": [
+          "Convidar para programa Totvs Champion",
+          "Apresentar roadmap de novidades do produto",
+          "Propor expansão para filiais/unidades"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics Premium",
+          "Integração com marketplace digital"
+        ],
+        "mensagem_personalizada": "Você é um parceiro exemplar! Temos novidades exclusivas para clientes como você.",
+        "prioridade_contato": "MÉDIA"
+      }
+    },
+    {
+      "ClientID": 5,
+      "Nome": "Diego Martins",
+      "Empresa": "Construtora Vértice",
+      "Segmento": "Construção Civil",
+      "Produto_Atual": "Protheus ERP",
+      "Tempo_Cliente_Anos": 6,
+      "Ultima_Interacao": "2025-02-14T00:00:00",
+      "Tickets_Abertos": 5,
+      "NPS": 6,
+      "Faturamento_Anual_R$": 7500000,
+      "Funcionarios": 200,
+      "Estado": "PR",
+      "Dias_Sem_Contato": 417,
+      "Risco_Churn": "🔴 Alto",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente engajado com alto volume de tickets pendentes, indicando necessidade de suporte técnico especializado.",
+        "acoes_imediatas": [
+          "Agendar call de saúde técnica em até 48h",
+          "Alocar consultor especialista no produto",
+          "Oferecer pacote de suporte premium"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics para dashboards operacionais",
+          "TOTVS RH integrado ao ERP atual"
+        ],
+        "mensagem_personalizada": "Olá! Identificamos pontos de melhoria e temos soluções para elevar sua operação.",
+        "prioridade_contato": "ALTA"
+      }
+    },
+    {
+      "ClientID": 6,
+      "Nome": "Aline Costa",
+      "Empresa": "Educação Futuro S/A",
+      "Segmento": "Educação",
+      "Produto_Atual": "TOTVS Educacional",
+      "Tempo_Cliente_Anos": 4,
+      "Ultima_Interacao": "2025-01-05T00:00:00",
+      "Tickets_Abertos": 0,
+      "NPS": 10,
+      "Faturamento_Anual_R$": 3100000,
+      "Funcionarios": 450,
+      "Estado": "SP",
+      "Dias_Sem_Contato": 457,
+      "Risco_Churn": "🟡 Médio",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente promotor com excelente NPS, ideal para programa de cases de sucesso e expansão de módulos.",
+        "acoes_imediatas": [
+          "Convidar para programa Totvs Champion",
+          "Apresentar roadmap de novidades do produto",
+          "Propor expansão para filiais/unidades"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics Premium",
+          "Integração com marketplace digital"
+        ],
+        "mensagem_personalizada": "Você é um parceiro exemplar! Temos novidades exclusivas para clientes como você.",
+        "prioridade_contato": "MÉDIA"
+      }
+    },
+    {
+      "ClientID": 7,
+      "Nome": "Marcelo Ferreira",
+      "Empresa": "Transportadora Rota Sul",
+      "Segmento": "Logística",
+      "Produto_Atual": "Protheus ERP",
+      "Tempo_Cliente_Anos": 8,
+      "Ultima_Interacao": "2024-11-22T00:00:00",
+      "Tickets_Abertos": 9,
+      "NPS": 3,
+      "Faturamento_Anual_R$": 4600000,
+      "Funcionarios": 170,
+      "Estado": "RS",
+      "Dias_Sem_Contato": 501,
+      "Risco_Churn": "🔴 Alto",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente engajado com alto volume de tickets pendentes, indicando necessidade de suporte técnico especializado.",
+        "acoes_imediatas": [
+          "Agendar call de saúde técnica em até 48h",
+          "Alocar consultor especialista no produto",
+          "Oferecer pacote de suporte premium"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics para dashboards operacionais",
+          "TOTVS RH integrado ao ERP atual"
+        ],
+        "mensagem_personalizada": "Olá! Identificamos pontos de melhoria e temos soluções para elevar sua operação.",
+        "prioridade_contato": "ALTA"
+      }
+    },
+    {
+      "ClientID": 8,
+      "Nome": "Juliana Pires",
+      "Empresa": "Escritório Jurídico Partners",
+      "Segmento": "Serviços",
+      "Produto_Atual": "Totvs Jurídico",
+      "Tempo_Cliente_Anos": 2,
+      "Ultima_Interacao": "2025-03-10T00:00:00",
+      "Tickets_Abertos": 2,
+      "NPS": 7,
+      "Faturamento_Anual_R$": 890000,
+      "Funcionarios": 40,
+      "Estado": "SP",
+      "Dias_Sem_Contato": 393,
+      "Risco_Churn": "🟡 Médio",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente promotor com excelente NPS, ideal para programa de cases de sucesso e expansão de módulos.",
+        "acoes_imediatas": [
+          "Convidar para programa Totvs Champion",
+          "Apresentar roadmap de novidades do produto",
+          "Propor expansão para filiais/unidades"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics Premium",
+          "Integração com marketplace digital"
+        ],
+        "mensagem_personalizada": "Você é um parceiro exemplar! Temos novidades exclusivas para clientes como você.",
+        "prioridade_contato": "MÉDIA"
+      }
+    },
+    {
+      "ClientID": 9,
+      "Nome": "Alexandre Nunes",
+      "Empresa": "Supermercados Central",
+      "Segmento": "Varejo",
+      "Produto_Atual": "TOTVS Varejo Omnichannel",
+      "Tempo_Cliente_Anos": 3,
+      "Ultima_Interacao": "2025-02-28T00:00:00",
+      "Tickets_Abertos": 4,
+      "NPS": 6,
+      "Faturamento_Anual_R$": 12000000,
+      "Funcionarios": 520,
+      "Estado": "BA",
+      "Dias_Sem_Contato": 403,
+      "Risco_Churn": "🟡 Médio",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente engajado com alto volume de tickets pendentes, indicando necessidade de suporte técnico especializado.",
+        "acoes_imediatas": [
+          "Agendar call de saúde técnica em até 48h",
+          "Alocar consultor especialista no produto",
+          "Oferecer pacote de suporte premium"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics para dashboards operacionais",
+          "TOTVS RH integrado ao ERP atual"
+        ],
+        "mensagem_personalizada": "Olá! Identificamos pontos de melhoria e temos soluções para elevar sua operação.",
+        "prioridade_contato": "ALTA"
+      }
+    },
+    {
+      "ClientID": 10,
+      "Nome": "Camila Rocha",
+      "Empresa": "Indústria Química Alfa",
+      "Segmento": "Manufatura",
+      "Produto_Atual": "Protheus ERP",
+      "Tempo_Cliente_Anos": 7,
+      "Ultima_Interacao": "2025-01-17T00:00:00",
+      "Tickets_Abertos": 6,
+      "NPS": 5,
+      "Faturamento_Anual_R$": 6300000,
+      "Funcionarios": 280,
+      "Estado": "SP",
+      "Dias_Sem_Contato": 445,
+      "Risco_Churn": "🔴 Alto",
+      "Sugestoes_IA": {
+        "resumo_perfil": "Cliente promotor com excelente NPS, ideal para programa de cases de sucesso e expansão de módulos.",
+        "acoes_imediatas": [
+          "Convidar para programa Totvs Champion",
+          "Apresentar roadmap de novidades do produto",
+          "Propor expansão para filiais/unidades"
+        ],
+        "oportunidades_upsell": [
+          "TOTVS Analytics Premium",
+          "Integração com marketplace digital"
+        ],
+        "mensagem_personalizada": "Você é um parceiro exemplar! Temos novidades exclusivas para clientes como você.",
+        "prioridade_contato": "MÉDIA"
+      }
+    }
+  ]
+}
